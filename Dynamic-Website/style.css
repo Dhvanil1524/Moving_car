@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(25, 26, 26);
+}
+
+h1{
+    color: wheat;
+}
+
+.car img{
+    width: 350px;
+    height: 270px;
+    position: absolute;
+    border: 5px solid rgb(56, 255, 99);
+    top: 90px;
+    left: 50px;
+}
